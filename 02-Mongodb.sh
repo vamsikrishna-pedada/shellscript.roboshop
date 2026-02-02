@@ -1,7 +1,7 @@
 #!/bin/bash
 # ------------------------------------------------------------------
 # Script Name : mongodb.sh
-# Author      : Ramu Chelloju
+# Author      : Vamsi Krishna
 # Purpose     :
 #   - Configure MongoDB repository on RHEL
 #   - Install MongoDB server
